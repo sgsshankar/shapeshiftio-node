@@ -1,0 +1,41 @@
+{
+  "name": "shapeshiftio-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs API for shapeshift.io",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "shapeshift.io"
+  ],
+  "author": {
+    "name": "sgsshankar",
+    "email": "sgsshankarnarayanan@gmail.com",
+    "url": "http://github.com/sgsshankar"
+  },
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "main": "shapeshiftio.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sgsshankar/shapeshiftio-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgsshankar/shapeshiftio-node/issues"
+  },
+  "keywords": [
+    "shapeshift",
+    "shapeshift.io",
+    "shapeshiftio",
+    "bitcoins",
+    "bitcoin"
+  ],
+  "dependencies": {
+    "express": "^4.13.3",
+    "promise": "^7.0.4",
+    "unirest": "^0.4.2"
+  },
+  "license": "Apache License"
+}
