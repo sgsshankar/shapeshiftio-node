@@ -1,6 +1,6 @@
 {
   "name": "shapeshiftio",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "nodejs API for shapeshift.io",
   "scripts": {
     "test": "node app.js",
