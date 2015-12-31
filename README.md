@@ -47,3 +47,7 @@ Feel free to fork from [shapeshiftio-node](https://github.com/sgsshankar/shapesh
 ### Issues
 
 https://github.com/sgsshankar/shapeshiftio-node/issues
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sgsshankar/shapeshiftio-node/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
